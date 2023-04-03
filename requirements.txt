@@ -1,0 +1,5 @@
+jsbeautifier
+matplotlib
+nltk
+scikit-image
+tqdm
